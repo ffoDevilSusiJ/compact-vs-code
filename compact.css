@@ -1,0 +1,25 @@
+
+.tabs-container {
+    flex-wrap: wrap;
+}
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container {
+    height: unset!important;
+}
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit {
+    width: unset;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab{
+    padding-left: 5px;
+    height: 26px;
+}
+#workbench\.parts\.editor > div.content > div > div > div > div > div.monaco-scrollable-element > div.split-view-container > div > div > div.title.tabs.show-file-icons > div.tabs-and-actions-container.tabs-border-bottom > div.monaco-scrollable-element > div.tabs-container > div.tab.tab-actions-right.sizing-fit.has-icon.dirty.active.tab-border-bottom.tab-border-top > div.monaco-icon-label.file-icon.orwepo-name-dir-icon.style\.css-name-file-icon.name-file-icon.css-ext-file-icon.ext-file-icon.css-lang-file-icon.tab-label.tab-label-has-badge.monaco-decoration-itemColor--phrepi.monaco-decoration-itemBadge--phrepi.monaco-decoration-iconBadge--phrepi {
+    height: 100%;
+    align-items: center;
+}
+.monaco-workbench .part.editor>.content .editor-group-container>.title .monaco-icon-label:before {
+    height: unset;
+}
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab .tab-label {
+    line-height: unset;
+}
