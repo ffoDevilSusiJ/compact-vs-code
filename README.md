@@ -1,1 +1,3 @@
-# compact-vs-code
+# Compact VSCode
+
+<image src='example.png'></image>
